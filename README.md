@@ -1,5 +1,4 @@
 # Local LLM Fintech AI Agent — Cash Flow Intelligence
----
 
 ## Summary
 
