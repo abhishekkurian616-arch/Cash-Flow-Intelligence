@@ -5,7 +5,7 @@
 
 ---
 
-## The Idea
+## Summary
 
 Most AI-powered financial tools send your business data to cloud servers — OpenAI, Google, or proprietary SaaS platforms. This project takes a different approach: **all AI inference runs locally on your own hardware**, with a fine-tuned model that deeply understands accounting vocabulary, transaction categorization, and cash flow dynamics.
 
